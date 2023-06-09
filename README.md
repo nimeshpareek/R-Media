@@ -1,6 +1,6 @@
 # Instructions to run it into your machine
 
-### Available Scripts
+## Available Scripts
 
 In the project directory, you can run: 
 
